@@ -1,4 +1,4 @@
-# Adivina la palabra
+Adivina la palabra
 ==================================
 Aplicación Android - realizada en kotlin. La app es un juego el cual consiste en un jugador debe adivinar la palabra en en tiempo establecido mientras otro realiza gestos, señas y movimiento para indicarle cual es la palabra sin poder hablar,
 
