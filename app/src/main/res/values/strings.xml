@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Adivina la palabra</string>
+    <string name="skip">Omitir</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="you_scored">Puntuación Final</string>
+    <string name="title_text">Adivina la Palabra!</string>
+    <string name="play_button">Jugar</string>
+    <string name="get_ready">Prepárate para</string>
+    <string name="got_it">Correcto</string>
+    <string name="end_game">Finalizar</string>
+    <string name="word_is">La palabra es…</string>
+
+    <string name="quote_format">\"%s\"</string>
+    <string name="score_format">Puntuación actual: %d</string>
+</resources>
